@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`1. seed 1`] = `
+"
+const oof = 1
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+const foo = 1;
+"
+`;
+
+exports[`test title 1`] = `
+"
+const foo = 1
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+const oof = 1;
+"
+`;
